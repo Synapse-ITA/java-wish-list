@@ -27,7 +27,6 @@ public class Main {
 
         System.out.println("Contenuto del set: " + miaLista);
  */
-
         ArrayList<String> listaRegali = new ArrayList<>();
 
         boolean continua = true;
